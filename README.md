@@ -1,6 +1,6 @@
 # Helm Values Diff
 
-**Live demo:** https://babug01.github.io/helm-values-diff/
+**Live demo:** https://helm-values-diff.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/helm-values-diff/)
 
 Paste a base `values.yaml` and a compare `values.yaml`, and get a flat, dot-notation list of what
 was added, removed, or changed between them — instead of eyeballing two long YAML files side by
